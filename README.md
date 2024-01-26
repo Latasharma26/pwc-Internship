@@ -1,6 +1,6 @@
 # pwc-Internship
 
-# Task 1st 
+# Task 2nd 
 Call center dashboard
 #Task 2 - Customer Retention
 Create a dashboard in Power BI that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.

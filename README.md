@@ -45,6 +45,12 @@ Average performance rating: men
 Average Performance rating: women
 Dashboard Images
 
+![image](https://github.com/Latasharma26/pwc-Internship/assets/96385877/9c4645dc-9ed2-46be-b167-86c0142792fc)
+![image](https://github.com/Latasharma26/pwc-Internship/assets/96385877/e854c351-2fc1-4db5-b10d-9add9fed675f)
+![image](https://github.com/Latasharma26/pwc-Internship/assets/96385877/8d4f0b7f-dd1c-4b4b-9487-d0bb3c92bf39)
+
+
+
 
 
 

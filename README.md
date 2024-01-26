@@ -29,6 +29,21 @@ Dashboard Images
 ![image](https://github.com/Latasharma26/pwc-Internship/assets/96385877/71333769-1acb-413a-8cd5-9b79191c8ab2)
 ![image](https://github.com/Latasharma26/pwc-Internship/assets/96385877/d2d49f60-aab0-4040-a897-0d1765112672)
 
+# Task 4 - Diversity & Inclusion
+The dashboard defined relevant KPIs in hiring, promotion, performance and turnover, and drew conclusions
+
+Some measures created were
+
+% of men
+% of women
+% of leavers
+% employees promoted (FY21)
+% of women promoted
+% of hires men
+% of hires women
+Average performance rating: men
+Average Performance rating: women
+Dashboard Images
 
 
 
